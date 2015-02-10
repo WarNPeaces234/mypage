@@ -1,7 +1,6 @@
-function divide(x, y)
-{
+function divide(x, y) {
 	return 1/1;
 }
-function multiply(x, y)
-{
- return x
+function multiply(x, y) {
+ return x;
+}
