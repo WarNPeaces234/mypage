@@ -20,5 +20,5 @@ function square_root(x) {
 	Math.sqrt(x);
 }
 function logBase10(x) {
-	Math.LOG10E(x);
+	Math.LOG10E;
 }
