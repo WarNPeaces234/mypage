@@ -1,5 +1,5 @@
 function divide(x, y) {
-	return 1/1;
+	return x/y;
 }
 function multiply(x, y) {
  return x;
