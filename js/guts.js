@@ -10,7 +10,7 @@ function add(x, y) {
 function subtract(x, y) {
 	return x-y;
 }
-function generateRandomNumber(x) {
+function generateRandomNumber() {
 	 Math.random(x);	
 }
 function power(x, y) {
