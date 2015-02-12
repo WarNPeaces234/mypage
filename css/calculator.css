@@ -21,9 +21,5 @@
 .container
 {
 	max-width: 700px;
-	color: crimson;
-}
-.background
-{
-	color:gray;
+	background-color: crimson;
 }
