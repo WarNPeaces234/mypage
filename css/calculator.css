@@ -8,6 +8,7 @@
 {
 	margin-top: 50px;
 	font-size: 60px;
+	color: blue;
 }
 
 #answer
@@ -20,4 +21,5 @@
 .container
 {
 	max-width: 700px;
+	color: crimson;
 }
