@@ -1,24 +1,28 @@
-function divide(x, y) {
-	return x/y;
+function divide (x,y)
+{
+    return x/y;
 }
-function multiply(x, y) {
- return x*y;
+function multiply (x,y);
+{
+    return x*y;
 }
-function add(x, y) {
-	return x+y;
+function add (x,y)
+{
+    return x+y;
 }
-function subtract(x, y) {
-	return x-y;
+function power(x,y)
+{
+    return Math.pow(x,y);
 }
-function generateRandomNumber() {
-	 Math.random(x);	
+function square_root (x)
+{
+    return Math.sqrt(9);
 }
-function power(x, y) {
-	Math.pow(x,y);
+function logbase10(x)
+{
+    return Math.log(x);
 }
-function square_root(x) {
-	Math.sqrt(x);
-}
-function logBase10(x) {
-	Math.LOG10E;
+function generateRandomNumber()
+{
+   return Math.random();
 }
