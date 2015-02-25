@@ -1,0 +1,18 @@
+.container
+{
+	max-width: 600px;
+    color: blue;
+    text-align: center;
+    background-color:#cccccc;  
+    background-image: url("paper.gif");
+}
+
+#check-btn {
+	margin-top: 20px;
+    color: navy;
+    text-align: center;
+}
+#generate-btn {
+    color: navy;
+    text-align: center;
+}
